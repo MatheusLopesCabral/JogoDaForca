@@ -3,7 +3,7 @@ oculto = []
 
 
 def ocultar(secreta):
-    """""""
+    
     global oculto
     for c in range(len(secreta)):
         oculto.append('-')
